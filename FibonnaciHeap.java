@@ -1,7 +1,5 @@
 import java.util.Arrays;
 
-//submitted by Shelly Katz (shellykatz1, 315528588) and Lior Tal (liortal2, 205873433) 
-
 /**
  * FibonacciHeap
  *
